@@ -65,6 +65,3 @@ Perfect for students, researchers, content creators, and anyone who needs to qui
 - pip package manager
 - 4GB+ RAM (for ML models)
 
-
-1. **Clone the repository**
-```bash
